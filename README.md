@@ -21,6 +21,6 @@ public class Chrystian
     {
         "System Design",
         "Scalability",
-        "Clean Architecture"
+        "Software Architecture"
     };
 }
